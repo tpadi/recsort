@@ -1,2 +1,2 @@
-from .recursion import recursion
-from .sorting import sorting
+import recsort.recursion
+import recsort.sorting
